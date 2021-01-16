@@ -1,0 +1,40 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 32,
+    "editor.matchBrackets": "never",
+    "editor.colorDecorators": false,
+    "editor.formatOnSave": false,
+    "editor.rulers": [80, 120],
+    "editor.minimap.maxColumn": 172,
+    "editor.minimap.renderCharacters": false,
+    "editor.wordWrap": "on",
+    "[html]": {
+        "editor.matchBrackets": "never"
+    },
+    "breadcrumbs.enabled": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "explorer.openEditors.visible": 0,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.tree.renderIndentGuides": "none",
+    "emmet.includeLanguages": {
+        "markdown": "html"
+        // "javascript": "javascriptreact"
+    },
+    "files.associations": {
+        "*.blade.php": "html"
+    },
+    "php.suggest.basic": false,
+    "tailwindCSS.emmetCompletions": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.colorTheme": "Default Dark+",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.formatOnPaste": true,
+    "diffEditor.ignoreTrimWhitespace": false
+}
