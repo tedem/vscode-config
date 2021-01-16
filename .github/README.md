@@ -3,7 +3,7 @@
 
 ## Settings
 
-Go to [settings.json](settings.json)
+Go to [settings.json](https://github.com/tedem/vscode-config/blob/master/settings.json)
 
 ## Keybinds
 
